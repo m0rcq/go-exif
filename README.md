@@ -2,7 +2,7 @@
 
 go-exif supports reading EXIF metadata from image files
 
-author: jack argirov (jack@dromo.co.uk; hello@m0rcq.org)
+author: atanas argirov (atanas@argirov.org)
 
 licence: MIT
 
